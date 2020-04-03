@@ -1,0 +1,35 @@
+body{
+  background-color: #80DFDD;
+  font-family: sans-serif;
+}
+h2{
+  font-size: 3vw;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-top: 25px;
+}
+p{
+  padding: 10px;
+}
+h1{
+  text-align:center;
+}
+.imagebox{
+  max-width: 75%;
+  max-height: 50%;
+}
+* {/*This code was taken from w3 Schools https://www.w3schools.com/css/css_rwd_grid.asp because I wanted to create a responsive design*/
+    box-sizing: border-box;
+}
+.sections{
+  background-color: #82DF80;
+  border-radius: 10px;
+  height: 800px;
+  text-align: center;
+  max-width: 30%;
+  float: left;
+  margin: 10px;
+}
+.links{
+  text-decoration: none;
+}

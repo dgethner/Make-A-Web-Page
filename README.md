@@ -1,4 +1,4 @@
-# Make-a-Web-Page
+# Make-A-Web-Page
 
 ## Requirements
 

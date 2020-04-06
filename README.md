@@ -112,5 +112,5 @@ For example, you may wish to include a poem or piece of artwork that was created
 Please note that your code itself (that is, your HTML and CSS) must be completely original.
 
 
-### Credit for this project 
+### Credit for this project's instructions  
 *Goes to [Udacity](https://www.udacity.com/) in their Intro to Programming Nanodegree track*
